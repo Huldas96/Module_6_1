@@ -1,0 +1,23 @@
+.title {
+  color: #333;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.text {
+  color: rgb(75, 75, 75);
+}
+
+.btn {
+  display: block;
+  width: 180px;
+  padding: 8px 0;
+  margin: 20px auto;
+  background-color: rgb(199, 199, 135);
+  border-radius: 9px;
+  color: #333;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
