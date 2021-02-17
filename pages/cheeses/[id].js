@@ -33,7 +33,7 @@ const Details = ({ cheese }) => {
         <div>
             <h3>Cheese Details</h3>
             <h1>{cheese.name}</h1>
-            <img src={process.env.NEXT_PUBLIC_STRAPI_URL + cheese.pic.url} height={240}/>
+            <img src={cheese.pic.url} height={240}/>
             <p>{cheese.desc}</p>
 
         </div>
