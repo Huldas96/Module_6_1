@@ -8,7 +8,8 @@ export const getStaticProps = async () => {
     const data = await res.json();
 
     return {
-        props: {cheeses: data}
+        props: {cheeses: data},
+        revalidate : 1
     }
 }
 
