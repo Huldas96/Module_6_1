@@ -15,7 +15,7 @@ export default function Home() {
         <a>https://www.britannica.com/topic/cheese</a>
         <Link href="/cheeses">
           <a className={styles.btn}>See List of Cheeses</a>
-          </Link>
+        </Link>
       </div>
     </>
   )
