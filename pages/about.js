@@ -8,9 +8,7 @@ const About = () => {
             </Head>
             <div>
                 <h1>About</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam congue ornare mauris ut tristique. In magna nulla, pretium ac ultricies commodo, gravida ac ipsum. Morbi et sapien sollicitudin, auctor nisi volutpat, gravida sem. Etiam sapien urna, eleifend in dignissim in, sollicitudin nec purus. </p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam congue ornare mauris ut tristique. In magna nulla, pretium ac ultricies commodo, gravida ac ipsum. Morbi et sapien sollicitudin, auctor nisi volutpat, gravida sem. Etiam sapien urna, eleifend in dignissim in, sollicitudin nec purus. </p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam congue ornare mauris ut tristique. In magna nulla, pretium ac ultricies commodo, gravida ac ipsum. Morbi et sapien sollicitudin, auctor nisi volutpat, gravida sem. Etiam sapien urna, eleifend in dignissim in, sollicitudin nec purus. </p>
+                <p>Cheezit is a lovely site for all cheese lovers. We like to list cheeses of all kinds with photos and a description of the cheese. It is always fun to learn more about your favorite food group.</p>
             </div>
         </>
     );
